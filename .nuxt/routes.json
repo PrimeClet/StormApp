@@ -1,0 +1,542 @@
+[
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/",
+    "_name": "_ea077f2e"
+  },
+  {
+    "name": "index___fr",
+    "path": "/fr",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/",
+    "_name": "_ea077f2e"
+  },
+  {
+    "name": "index___ha",
+    "path": "/ha",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/",
+    "_name": "_ea077f2e"
+  },
+  {
+    "name": "index___pt",
+    "path": "/pt",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/",
+    "_name": "_ea077f2e"
+  },
+  {
+    "name": "about___en",
+    "path": "/en/about",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/about",
+    "_name": "_6b4465a4"
+  },
+  {
+    "name": "agreement___en",
+    "path": "/en/agreement",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\agreement.vue",
+    "chunkName": "pages/agreement",
+    "url": "/agreement",
+    "_name": "_979413be"
+  },
+  {
+    "name": "conPolicy___en",
+    "path": "/en/conPolicy",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\conPolicy.vue",
+    "chunkName": "pages/conPolicy",
+    "url": "/conPolicy",
+    "_name": "_d5d54f2a"
+  },
+  {
+    "name": "creators___en",
+    "path": "/en/creators",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\creators.vue",
+    "chunkName": "pages/creators",
+    "url": "/creators",
+    "_name": "_7155aa80"
+  },
+  {
+    "name": "delete-account___en",
+    "path": "/en/delete-account",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\delete-account.vue",
+    "chunkName": "pages/delete-account",
+    "url": "/delete-account",
+    "_name": "_49befe04"
+  },
+  {
+    "name": "faq___en",
+    "path": "/en/faq",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/faq",
+    "_name": "_4b9d546d"
+  },
+  {
+    "name": "initi___en",
+    "path": "/en/initi",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\initi.vue",
+    "chunkName": "pages/initi",
+    "url": "/initi",
+    "_name": "_a77e8d20"
+  },
+  {
+    "name": "login___en",
+    "path": "/en/login",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "url": "/login",
+    "_name": "_54a3e380"
+  },
+  {
+    "name": "priPolicy___en",
+    "path": "/en/priPolicy",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\priPolicy.vue",
+    "chunkName": "pages/priPolicy",
+    "url": "/priPolicy",
+    "_name": "_3f4bc160"
+  },
+  {
+    "name": "profile___en",
+    "path": "/en/profile",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "url": "/profile",
+    "_name": "_93344c00"
+  },
+  {
+    "name": "resetpassword___en",
+    "path": "/en/resetpassword",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\resetpassword.vue",
+    "chunkName": "pages/resetpassword",
+    "url": "/resetpassword",
+    "_name": "_2649f581"
+  },
+  {
+    "name": "signup___en",
+    "path": "/en/signup",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "url": "/signup",
+    "_name": "_e79b0cde"
+  },
+  {
+    "name": "tou___en",
+    "path": "/en/tou",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\tou.vue",
+    "chunkName": "pages/tou",
+    "url": "/tou",
+    "_name": "_4850c8b1"
+  },
+  {
+    "name": "why-us___en",
+    "path": "/en/why-us",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\why-us.vue",
+    "chunkName": "pages/why-us",
+    "url": "/why-us",
+    "_name": "_aec39c88"
+  },
+  {
+    "name": "writeArticle___en",
+    "path": "/en/writeArticle",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\writeArticle.vue",
+    "chunkName": "pages/writeArticle",
+    "url": "/writeArticle",
+    "_name": "_50600850"
+  },
+  {
+    "name": "about___fr",
+    "path": "/fr/about",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/about",
+    "_name": "_6b4465a4"
+  },
+  {
+    "name": "agreement___fr",
+    "path": "/fr/agreement",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\agreement.vue",
+    "chunkName": "pages/agreement",
+    "url": "/agreement",
+    "_name": "_979413be"
+  },
+  {
+    "name": "conPolicy___fr",
+    "path": "/fr/conPolicy",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\conPolicy.vue",
+    "chunkName": "pages/conPolicy",
+    "url": "/conPolicy",
+    "_name": "_d5d54f2a"
+  },
+  {
+    "name": "creators___fr",
+    "path": "/fr/creators",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\creators.vue",
+    "chunkName": "pages/creators",
+    "url": "/creators",
+    "_name": "_7155aa80"
+  },
+  {
+    "name": "delete-account___fr",
+    "path": "/fr/delete-account",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\delete-account.vue",
+    "chunkName": "pages/delete-account",
+    "url": "/delete-account",
+    "_name": "_49befe04"
+  },
+  {
+    "name": "faq___fr",
+    "path": "/fr/faq",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/faq",
+    "_name": "_4b9d546d"
+  },
+  {
+    "name": "initi___fr",
+    "path": "/fr/initi",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\initi.vue",
+    "chunkName": "pages/initi",
+    "url": "/initi",
+    "_name": "_a77e8d20"
+  },
+  {
+    "name": "login___fr",
+    "path": "/fr/login",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "url": "/login",
+    "_name": "_54a3e380"
+  },
+  {
+    "name": "priPolicy___fr",
+    "path": "/fr/priPolicy",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\priPolicy.vue",
+    "chunkName": "pages/priPolicy",
+    "url": "/priPolicy",
+    "_name": "_3f4bc160"
+  },
+  {
+    "name": "profile___fr",
+    "path": "/fr/profile",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "url": "/profile",
+    "_name": "_93344c00"
+  },
+  {
+    "name": "resetpassword___fr",
+    "path": "/fr/resetpassword",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\resetpassword.vue",
+    "chunkName": "pages/resetpassword",
+    "url": "/resetpassword",
+    "_name": "_2649f581"
+  },
+  {
+    "name": "signup___fr",
+    "path": "/fr/signup",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "url": "/signup",
+    "_name": "_e79b0cde"
+  },
+  {
+    "name": "tou___fr",
+    "path": "/fr/tou",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\tou.vue",
+    "chunkName": "pages/tou",
+    "url": "/tou",
+    "_name": "_4850c8b1"
+  },
+  {
+    "name": "why-us___fr",
+    "path": "/fr/why-us",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\why-us.vue",
+    "chunkName": "pages/why-us",
+    "url": "/why-us",
+    "_name": "_aec39c88"
+  },
+  {
+    "name": "writeArticle___fr",
+    "path": "/fr/writeArticle",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\writeArticle.vue",
+    "chunkName": "pages/writeArticle",
+    "url": "/writeArticle",
+    "_name": "_50600850"
+  },
+  {
+    "name": "about___ha",
+    "path": "/ha/about",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/about",
+    "_name": "_6b4465a4"
+  },
+  {
+    "name": "agreement___ha",
+    "path": "/ha/agreement",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\agreement.vue",
+    "chunkName": "pages/agreement",
+    "url": "/agreement",
+    "_name": "_979413be"
+  },
+  {
+    "name": "conPolicy___ha",
+    "path": "/ha/conPolicy",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\conPolicy.vue",
+    "chunkName": "pages/conPolicy",
+    "url": "/conPolicy",
+    "_name": "_d5d54f2a"
+  },
+  {
+    "name": "creators___ha",
+    "path": "/ha/creators",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\creators.vue",
+    "chunkName": "pages/creators",
+    "url": "/creators",
+    "_name": "_7155aa80"
+  },
+  {
+    "name": "delete-account___ha",
+    "path": "/ha/delete-account",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\delete-account.vue",
+    "chunkName": "pages/delete-account",
+    "url": "/delete-account",
+    "_name": "_49befe04"
+  },
+  {
+    "name": "faq___ha",
+    "path": "/ha/faq",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/faq",
+    "_name": "_4b9d546d"
+  },
+  {
+    "name": "initi___ha",
+    "path": "/ha/initi",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\initi.vue",
+    "chunkName": "pages/initi",
+    "url": "/initi",
+    "_name": "_a77e8d20"
+  },
+  {
+    "name": "login___ha",
+    "path": "/ha/login",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "url": "/login",
+    "_name": "_54a3e380"
+  },
+  {
+    "name": "priPolicy___ha",
+    "path": "/ha/priPolicy",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\priPolicy.vue",
+    "chunkName": "pages/priPolicy",
+    "url": "/priPolicy",
+    "_name": "_3f4bc160"
+  },
+  {
+    "name": "profile___ha",
+    "path": "/ha/profile",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "url": "/profile",
+    "_name": "_93344c00"
+  },
+  {
+    "name": "resetpassword___ha",
+    "path": "/ha/resetpassword",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\resetpassword.vue",
+    "chunkName": "pages/resetpassword",
+    "url": "/resetpassword",
+    "_name": "_2649f581"
+  },
+  {
+    "name": "signup___ha",
+    "path": "/ha/signup",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "url": "/signup",
+    "_name": "_e79b0cde"
+  },
+  {
+    "name": "tou___ha",
+    "path": "/ha/tou",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\tou.vue",
+    "chunkName": "pages/tou",
+    "url": "/tou",
+    "_name": "_4850c8b1"
+  },
+  {
+    "name": "why-us___ha",
+    "path": "/ha/why-us",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\why-us.vue",
+    "chunkName": "pages/why-us",
+    "url": "/why-us",
+    "_name": "_aec39c88"
+  },
+  {
+    "name": "writeArticle___ha",
+    "path": "/ha/writeArticle",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\writeArticle.vue",
+    "chunkName": "pages/writeArticle",
+    "url": "/writeArticle",
+    "_name": "_50600850"
+  },
+  {
+    "name": "about___pt",
+    "path": "/pt/about",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/about",
+    "_name": "_6b4465a4"
+  },
+  {
+    "name": "agreement___pt",
+    "path": "/pt/agreement",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\agreement.vue",
+    "chunkName": "pages/agreement",
+    "url": "/agreement",
+    "_name": "_979413be"
+  },
+  {
+    "name": "conPolicy___pt",
+    "path": "/pt/conPolicy",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\conPolicy.vue",
+    "chunkName": "pages/conPolicy",
+    "url": "/conPolicy",
+    "_name": "_d5d54f2a"
+  },
+  {
+    "name": "creators___pt",
+    "path": "/pt/creators",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\creators.vue",
+    "chunkName": "pages/creators",
+    "url": "/creators",
+    "_name": "_7155aa80"
+  },
+  {
+    "name": "delete-account___pt",
+    "path": "/pt/delete-account",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\delete-account.vue",
+    "chunkName": "pages/delete-account",
+    "url": "/delete-account",
+    "_name": "_49befe04"
+  },
+  {
+    "name": "faq___pt",
+    "path": "/pt/faq",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/faq",
+    "_name": "_4b9d546d"
+  },
+  {
+    "name": "initi___pt",
+    "path": "/pt/initi",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\initi.vue",
+    "chunkName": "pages/initi",
+    "url": "/initi",
+    "_name": "_a77e8d20"
+  },
+  {
+    "name": "login___pt",
+    "path": "/pt/login",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "url": "/login",
+    "_name": "_54a3e380"
+  },
+  {
+    "name": "priPolicy___pt",
+    "path": "/pt/priPolicy",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\priPolicy.vue",
+    "chunkName": "pages/priPolicy",
+    "url": "/priPolicy",
+    "_name": "_3f4bc160"
+  },
+  {
+    "name": "profile___pt",
+    "path": "/pt/profile",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "url": "/profile",
+    "_name": "_93344c00"
+  },
+  {
+    "name": "resetpassword___pt",
+    "path": "/pt/resetpassword",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\resetpassword.vue",
+    "chunkName": "pages/resetpassword",
+    "url": "/resetpassword",
+    "_name": "_2649f581"
+  },
+  {
+    "name": "signup___pt",
+    "path": "/pt/signup",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "url": "/signup",
+    "_name": "_e79b0cde"
+  },
+  {
+    "name": "tou___pt",
+    "path": "/pt/tou",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\tou.vue",
+    "chunkName": "pages/tou",
+    "url": "/tou",
+    "_name": "_4850c8b1"
+  },
+  {
+    "name": "why-us___pt",
+    "path": "/pt/why-us",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\why-us.vue",
+    "chunkName": "pages/why-us",
+    "url": "/why-us",
+    "_name": "_aec39c88"
+  },
+  {
+    "name": "writeArticle___pt",
+    "path": "/pt/writeArticle",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\writeArticle.vue",
+    "chunkName": "pages/writeArticle",
+    "url": "/writeArticle",
+    "_name": "_50600850"
+  },
+  {
+    "name": "article-slug___en",
+    "path": "/en/article/:slug?",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\article\\\\_slug.vue",
+    "chunkName": "pages/article/_slug",
+    "_name": "_b70d9866"
+  },
+  {
+    "name": "article-slug___fr",
+    "path": "/fr/article/:slug?",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\article\\\\_slug.vue",
+    "chunkName": "pages/article/_slug",
+    "_name": "_b70d9866"
+  },
+  {
+    "name": "article-slug___ha",
+    "path": "/ha/article/:slug?",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\article\\\\_slug.vue",
+    "chunkName": "pages/article/_slug",
+    "_name": "_b70d9866"
+  },
+  {
+    "name": "article-slug___pt",
+    "path": "/pt/article/:slug?",
+    "component": "G:\\\\BOULOT\\\\ODAYYY\\\\Blog\\\\Blog\\\\pages\\\\article\\\\_slug.vue",
+    "chunkName": "pages/article/_slug",
+    "_name": "_b70d9866"
+  }
+]
