@@ -1065,27 +1065,24 @@ export default {
       //   doodo.push(storeData[i].username)
       // }
 
-      Pusher.logToConsole = false;
-      var pusher = new Pusher('4cc3ddc1b022abe535ce', {
-        cluster: 'eu'
-      })
-      // for (let i = 0; i < doodo.length; i++) {
-      //   doodo[i];
-      //   let eventPusher = pusher.subscribe(doodo[i])
-      //   eventPusher.bind('usernotification', function(data) {
-      //     that.notifications.push(data.message)
-      //   })
-      // }
-      // that.chanel.map(channelName => pusher.subscribe(channelName))
-      // let that = this
-      let eventPusher = pusher.subscribe(logUser)
-      eventPusher.bind('usernotification', function (data) {
-        that.notifications.push(data.message)
-      })
+      // Pusher.logToConsole = false;
+      // var pusher = new Pusher('4cc3ddc1b022abe535ce', {
+      //   cluster: 'eu'
+      // })
+      // // for (let i = 0; i < doodo.length; i++) {
+      // //   doodo[i];
+      // //   let eventPusher = pusher.subscribe(doodo[i])
+      // //   eventPusher.bind('usernotification', function(data) {
+      // //     that.notifications.push(data.message)
+      // //   })
+      // // }
+      // // that.chanel.map(channelName => pusher.subscribe(channelName))
+      // // let that = this
+      // let eventPusher = pusher.subscribe(logUser)
+      // eventPusher.bind('usernotification', function (data) {
+      //   that.notifications.push(data.message)
+      // })
     }
-
-    console.log('profile_pic :', this.$cookies.get('profile_image'))
-    console.log('profile_pic :', document.cookie)
 
     if (performance.navigation.type == performance.navigation.TYPE_RELOAD) {
       if (this.$cookies.get('articlePost')) {
