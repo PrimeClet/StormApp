@@ -96,7 +96,6 @@ export default {
     {src: '~/plugins/vue-social-sharing.js', ssr: false},
     {src: '~/plugins/vue-cropper.js', ssr: false},
     {src: '~/plugins/localStorage.js', ssr: false},
-    {src: '~/plugins/vue2-scrollspy.js', ssr: false},
     {src: '~/plugins/country-code-input.js', ssr: false},
   ],
 
