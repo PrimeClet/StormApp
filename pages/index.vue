@@ -19,13 +19,13 @@ import articalPreview from "../components/articalPreview"
 import {mapGetters, mapState} from "vuex"
 
 export default {
-  asyncData({req, store}) {
-    if (process.server) {
-      const ip = req.headers['x-forwarded-for']
-      store.commit('PUT_USERIP', ip)
-      return { ipadd: ip }
-    }
-  },
+  // asyncData({req, store}) {
+  //   if (process.server) {
+  //     const ip = req.headers['x-forwarded-for']
+  //     store.commit('PUT_USERIP', ip)
+  //     return { ipadd: ip }
+  //   }
+  // },
   async fetch() {
     await this.getDiscover()
     await this.getUserSettings()
@@ -171,121 +171,121 @@ export default {
     }
   },
 
-  head() {
-    return {
-      title: this.$t('pages.home.seoTitle'),
-      meta: [
-        {
-          hid: 'description',
-          name: 'description',
-          content: this.$t('pages.home.seoContent')
-        },
-        {
-          hid: 'keywords',
-          name: 'keywords',
-          content: this.$t('pages.home.seoDescription')
-        },
-        {
-          hid: 'image',
-          name: 'image',
-          content: 'https://odaaay.com/weather/logo.png',
-        },
-        {
-          hid: 'publisher',
-          name: 'publisher',
-          content: 'Odaaay',
-        },
-        { hid: 'robots', name: 'robots', content: 'index follow' },
-        // Google+ / Schema.org
-        { hid: 'itemname', itemprop: 'name', content: 'Odaaay' },
-        {
-          hid: 'itemimage',
-          itemprop: 'image',
-          content: 'https://odaaay.com/weather/logo.png',
-        },
-        {
-          hid: 'itemdescription',
-          itemprop: 'description',
-          content: this.$t('pages.home.seoContent')
-        },
-        // ...
-        // Facebook / Open Graph
-        { hid: 'og:title', property: 'og:title', content: 'Odaaay' },
-        {
-          hid: 'og:url',
-          property: 'og:url',
-          content: 'https://www.odaaay.com',
-        },
-        { hid: 'og:type', property: 'og:type', content: 'website' },
-        {
-          hid: 'og:description',
-          property: 'og:description',
-          content:this.$t('pages.home.seoContent')
-        },
-        {
-          hid: 'og:image',
-          property: 'og:image',
-          content: 'https://odaaay.com/weather/logo.png',
-        },
-        {
-          property: 'og:site_name',
-          content: 'Odaaay'
-        },
-      ],
-      link: [
-        {
-          rel: 'canonical',
-          href: 'https://odaaay.com' + this.$route.fullPath,
-        },
-      ],
-      script: [
-        {
-          type: 'application/ld+json',
-          json: {
-            '@context': 'https://schema.org',
-            '@type': 'NewsMediaOrganization',
-            name: 'Odaaay',
-            alternateName: 'Odaaay',
-            url: 'https://www.odaaay.com',
-            logo: 'https://odaaay.com/weather/logo.png',
-            sameAs: [
-              'https://twitter.com/odaaay',
-              'https://wikipedia.com/wikiaccount',
-              'https://odaaay.com/',
-            ],
-            contactPoint: [
-              {
-                '@type': 'ContactPoint',
-                email: 'admin@odaaay.co',
-                contactType: 'customer service',
-                availableLanguage: ['en', 'fr', 'pt', 'ha', 'es'],
-              },
-            ],
-          },
-        },
-        {
-          type: 'application/ld+json',
-          json: {
-            '@context': 'http://schema.org',
-            '@type': 'NewsMediaOrganization',
-            name: 'Odaaay',
-            legalName: 'Odaaay',
-            address: {
-              '@type': 'PostalAddress',
-              addressCountry: 'CM',
-              addressLocality: 'Yaounde',
-              addressRegion: 'Centre',
-              streetAddress: 'Marie Göcker',
-            },
-            logo: 'https://odaaay.com/weather/logo.png',
-            email: 'mailto:admin@odaaay.co',
-            url: 'https://odaaay.com',
-            foundingDate: ' 2019-10-10',
-          },
-        },
-      ],
-    }
-  },
+  /*head() {*/
+  /*  return {*/
+  /*    title: this.$t('pages.home.seoTitle'),*/
+  /*    meta: [*/
+  /*      {*/
+  /*        hid: 'description',*/
+  /*        name: 'description',*/
+  /*        content: this.$t('pages.home.seoContent')*/
+  /*      },*/
+  /*      {*/
+  /*        hid: 'keywords',*/
+  /*        name: 'keywords',*/
+  /*        content: this.$t('pages.home.seoDescription')*/
+  /*      },*/
+  /*      {*/
+  /*        hid: 'image',*/
+  /*        name: 'image',*/
+  /*        content: 'https://odaaay.com/weather/logo.png',*/
+  /*      },*/
+  /*      {*/
+  /*        hid: 'publisher',*/
+  /*        name: 'publisher',*/
+  /*        content: 'Odaaay',*/
+  /*      },*/
+  /*      { hid: 'robots', name: 'robots', content: 'index follow' },*/
+  /*      // Google+ / Schema.org*/
+  /*      { hid: 'itemname', itemprop: 'name', content: 'Odaaay' },*/
+  /*      {*/
+  /*        hid: 'itemimage',*/
+  /*        itemprop: 'image',*/
+  /*        content: 'https://odaaay.com/weather/logo.png',*/
+  /*      },*/
+  /*      {*/
+  /*        hid: 'itemdescription',*/
+  /*        itemprop: 'description',*/
+  /*        content: this.$t('pages.home.seoContent')*/
+  /*      },*/
+  /*      // ...*/
+  /*      // Facebook / Open Graph*/
+  /*      { hid: 'og:title', property: 'og:title', content: 'Odaaay' },*/
+  /*      {*/
+  /*        hid: 'og:url',*/
+  /*        property: 'og:url',*/
+  /*        content: 'https://www.odaaay.com',*/
+  /*      },*/
+  /*      { hid: 'og:type', property: 'og:type', content: 'website' },*/
+  /*      {*/
+  /*        hid: 'og:description',*/
+  /*        property: 'og:description',*/
+  /*        content:this.$t('pages.home.seoContent')*/
+  /*      },*/
+  /*      {*/
+  /*        hid: 'og:image',*/
+  /*        property: 'og:image',*/
+  /*        content: 'https://odaaay.com/weather/logo.png',*/
+  /*      },*/
+  /*      {*/
+  /*        property: 'og:site_name',*/
+  /*        content: 'Odaaay'*/
+  /*      },*/
+  /*    ],*/
+  /*    link: [*/
+  /*      {*/
+  /*        rel: 'canonical',*/
+  /*        href: 'https://odaaay.com' + this.$route.fullPath,*/
+  /*      },*/
+  /*    ],*/
+  /*    script: [*/
+  /*      {*/
+  /*        type: 'application/ld+json',*/
+  /*        json: {*/
+  /*          '@context': 'https://schema.org',*/
+  /*          '@type': 'NewsMediaOrganization',*/
+  /*          name: 'Odaaay',*/
+  /*          alternateName: 'Odaaay',*/
+  /*          url: 'https://www.odaaay.com',*/
+  /*          logo: 'https://odaaay.com/weather/logo.png',*/
+  /*          sameAs: [*/
+  /*            'https://twitter.com/odaaay',*/
+  /*            'https://wikipedia.com/wikiaccount',*/
+  /*            'https://odaaay.com/',*/
+  /*          ],*/
+  /*          contactPoint: [*/
+  /*            {*/
+  /*              '@type': 'ContactPoint',*/
+  /*              email: 'admin@odaaay.co',*/
+  /*              contactType: 'customer service',*/
+  /*              availableLanguage: ['en', 'fr', 'pt', 'ha', 'es'],*/
+  /*            },*/
+  /*          ],*/
+  /*        },*/
+  /*      },*/
+  /*      {*/
+  /*        type: 'application/ld+json',*/
+  /*        json: {*/
+  /*          '@context': 'http://schema.org',*/
+  /*          '@type': 'NewsMediaOrganization',*/
+  /*          name: 'Odaaay',*/
+  /*          legalName: 'Odaaay',*/
+  /*          address: {*/
+  /*            '@type': 'PostalAddress',*/
+  /*            addressCountry: 'CM',*/
+  /*            addressLocality: 'Yaounde',*/
+  /*            addressRegion: 'Centre',*/
+  /*            streetAddress: 'Marie Göcker',*/
+  /*          },*/
+  /*          logo: 'https://odaaay.com/weather/logo.png',*/
+  //           email: 'mailto:admin@odaaay.co',
+  //           url: 'https://odaaay.com',
+  //           foundingDate: ' 2019-10-10',
+  //         },
+  //       },
+  //     ],
+  //   }
+  // },
 
 };
 </script>
