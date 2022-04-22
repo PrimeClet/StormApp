@@ -137,7 +137,7 @@
 
 <script>
 import {VueTelInput} from "vue-tel-input"
-import animationData from '~/assets/anims/jump.json'
+import animationData from '~/anims/jump.json'
 import Lottie from 'vue-lottie/src/lottie.vue'
 
 

@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import animationData from '~/assets/anims/error.json'
+import animationData from '~/anims/error.json'
 import Lottie from 'vue-lottie/src/lottie.vue'
 
 export default {

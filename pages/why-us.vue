@@ -97,7 +97,7 @@
 </template>
 
 <script>
-import animationData from '@/assets/anims/team.json'
+import animationData from '@/anims/team.json'
 import Lottie from 'vue-lottie/src/lottie.vue'
 
 export default {

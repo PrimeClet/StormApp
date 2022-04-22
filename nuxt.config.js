@@ -292,6 +292,7 @@ export default {
   buildModules: ['@nuxtjs/color-mode'],
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    extractCSS: true,
     filenames: {
       chunk: ({ isDev }) => (isDev ? '[name].js' : '[id].[contenthash].js')
     },

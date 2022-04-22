@@ -215,7 +215,7 @@
 
 <script>
 import { VueTelInput } from "vue-tel-input";
-import animationData from '@/assets/anims/signup.json'
+import animationData from '@/anims/signup.json'
 import Lottie from 'vue-lottie/src/lottie.vue'
 
 export default {
